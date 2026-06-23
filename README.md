@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello Everyone!&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello Everyone!&strokeWidth=2&section=header&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false&render=true"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A8D8&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%8C%B8;Mobile+App+Enthusiast+%F0%9F%9A%80;Clean+Code+Lover+%E2%9C%A8;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
-
+</div>
 ---
 
 <p align="center">
